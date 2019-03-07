@@ -1,0 +1,19 @@
+{
+  "name": "simplenodebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakealexander/simpleNodeBuild.git"
+  },
+  "author": "blake hause",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakealexander/simpleNodeBuild/issues"
+  },
+  "homepage": "https://github.com/blakealexander/simpleNodeBuild#readme"
+}
